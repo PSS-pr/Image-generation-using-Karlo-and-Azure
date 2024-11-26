@@ -5,3 +5,4 @@ PyCharm, Azure(STT,TTS,translator), Kakao(KALO)
 각 단어에 대해 반의어를 추출하고, 번역된 단어는 프롬프트로 사용되며, 반의어는 네거티브 프롬프트로 활용됩니다.
 KALO를 통해 이미지를 생성한 후, 영어로 번역된 문장은 TTS를 사용해 출력됩니다.
 
+--KarloAPI 기한만료
